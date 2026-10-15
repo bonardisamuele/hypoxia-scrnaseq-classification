@@ -1,0 +1,15 @@
+# Direct imported distributions in the owner-selected complete notebook.
+# Inventory only; no tested/pinned environment or install performed.
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+scanpy
+anndata
+xgboost
+optuna
+gseapy
+ipython
